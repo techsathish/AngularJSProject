@@ -1,34 +1,43 @@
-﻿  
-        <header class="container" data-ng-controller="navigationController">
-            <div id="menu" class="navbar navbar-default">
-                <div class="navbar-header">
-                    <button class="btn btn-success navbar-toggle" data-ng-click="navbarExpanded = !navbarExpanded">
-                        <span class="glyphicon glyphicon-chevron-down"></span>
-                    </button>
-                    <div id="logo">
-                        <a href='#/'>
-                            <h4>Explore Foursquare</h4>
-                        </a>
-                    </div>
-                </div>
-                <div class="navbar-collapse collapse" data-collapse="!navbarExpanded">
-                    <ul class="nav navbar-nav navbar-right">
-                        <li data-ng-class="{'active':isActive('/explore')}"><a href="#/explore">Explore</a></li>
-                        <li data-ng-class="{'active':isActive('/places')}"><a href="#/places">My Places</a></li>
-                        <li data-ng-class="{'active':isActive('/about')}"><a href="#/about">About</a></li>
-                    </ul>
-                </div>
-            </div>
-        </header>
-        
-        <section id="body" class="container">
-            <div data-ng-view=""></div>
-        </section>
+﻿<header>
+    <nav class="navbar navbar-default" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Authentication Design</a>
+    </div>
 
-        <hr />
-        <footer class="container">
-            <p>Created by Taiseer Joudeh. Twitter: <a target="_blank" href="http://twitter.com/tjoudeh">@tjoudeh</a></p>
-            <p>Taiseer Joudeh Blog: <a target="_blank" href="http://www.bitoftech.net">bitoftech.net</a></p>
-        </footer>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">      
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#signup">signup</a></li>
+        <li><a href="#login">login</a></li>
 
-    
+        @*<li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </li>*@
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+</header>
+
+<div id="content">
+    <div ng-view></div>
+</div>
+
+<footer>
+    <h3>Studying Angular JS</h3>
+</footer>
