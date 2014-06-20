@@ -8,7 +8,8 @@ angularCartApp.config(['$routeProvider', function ($routeProvider) {
 
     $routeProvider.when('/signup', {
         templateUrl: 'app/views/auth/signup.html',
-        controller: 'HomeController'
+        controller: 'SignUpController'
     });
+
 
 }]);

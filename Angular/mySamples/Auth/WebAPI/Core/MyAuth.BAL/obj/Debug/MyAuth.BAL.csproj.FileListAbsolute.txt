@@ -1,0 +1,9 @@
+C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\Core\MyAuth.BAL\bin\Debug\MyAuth.BAL.dll
+C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\Core\MyAuth.BAL\bin\Debug\MyAuth.BAL.pdb
+C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\Core\MyAuth.BAL\bin\Debug\MyAuth.DAL.dll
+C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\Core\MyAuth.BAL\bin\Debug\MyAuth.Model.dll
+C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\Core\MyAuth.BAL\bin\Debug\MyAuth.DAL.pdb
+C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\Core\MyAuth.BAL\bin\Debug\MyAuth.Model.pdb
+C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\Core\MyAuth.BAL\obj\Debug\MyAuth.BAL.csprojResolveAssemblyReference.cache
+C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\Core\MyAuth.BAL\obj\Debug\MyAuth.BAL.dll
+C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\Core\MyAuth.BAL\obj\Debug\MyAuth.BAL.pdb

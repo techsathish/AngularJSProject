@@ -40,6 +40,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Moq">
+      <HintPath>..\..\..\..\packages\Moq.4.2.1402.2112\lib\net40\Moq.dll</HintPath>
+    </Reference>
+    <Reference Include="Ninject">
+      <HintPath>..\..\..\..\packages\Ninject.3.2.2.0\lib\net45-full\Ninject.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Data.Entity" />
@@ -122,8 +128,8 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\AuthController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -132,6 +138,7 @@
   <ItemGroup>
     <Content Include="app\app.js" />
     <Content Include="app\controllers\HomeController.js" />
+    <Content Include="app\controllers\SignUpController.js" />
     <Content Include="app\views\auth\signup.html" />
     <Content Include="app\views\home\home.html" />
     <Content Include="content\css\amelia-bootstrap-theme.min.css" />
@@ -497,6 +504,16 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="scripts\jquery\jquery-2.1.0.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core\MyAuth.BAL\MyAuth.BAL.csproj">
+      <Project>{d917fa05-072d-467f-9633-c2f806712df4}</Project>
+      <Name>MyAuth.BAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Core\MyAuth.Model\MyAuth.Model.csproj">
+      <Project>{cdb1d108-2e5e-4903-b935-9eb4dbc8bf21}</Project>
+      <Name>MyAuth.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

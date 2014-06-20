@@ -39,8 +39,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Auth\Auth.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MyAuth.DAL\MyAuth.DAL.csproj">
+      <Project>{6638c6dd-40f5-4404-a88d-3b78e83b8cb2}</Project>
+      <Name>MyAuth.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MyAuth.Model\MyAuth.Model.csproj">
+      <Project>{cdb1d108-2e5e-4903-b935-9eb4dbc8bf21}</Project>
+      <Name>MyAuth.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

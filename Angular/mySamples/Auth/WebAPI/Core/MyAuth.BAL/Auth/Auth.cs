@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyAuth.BAL
+namespace MyAuth.BAL.Auth
 {
-    public class Class1
+    public class Auth
     {
+        //public static RegisterUser(){
+            
+        //}
     }
 }

@@ -1,9 +1,14 @@
+C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\obj\Debug\MyAuth.csprojResolveAssemblyReference.cache
 C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\MyAuth.dll
 C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\MyAuth.pdb
 C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\Antlr3.Runtime.dll
 C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\EntityFramework.dll
 C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\Moq.dll
+C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\MyAuth.BAL.dll
+C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\MyAuth.Model.dll
 C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\Newtonsoft.Json.dll
+C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\Ninject.dll
 C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\System.Net.Http.Formatting.dll
 C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\System.Web.Helpers.dll
 C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\System.Web.Http.dll
@@ -16,6 +21,10 @@ C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\
 C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\System.Web.WebPages.dll
 C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\System.Web.WebPages.Razor.dll
 C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\WebGrease.dll
+C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\MyAuth.BAL.pdb
+C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\MyAuth.Model.pdb
+C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\Moq.xml
+C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\Ninject.xml
 C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\EntityFramework.xml
 C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\Newtonsoft.Json.xml
 C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\System.Net.Http.Formatting.xml
@@ -27,6 +36,5 @@ C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\
 C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\System.Web.WebPages.xml
 C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\System.Web.WebPages.Deployment.xml
 C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\bin\System.Web.WebPages.Razor.xml
-C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\obj\Debug\MyAuth.csprojResolveAssemblyReference.cache
 C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\obj\Debug\MyAuth.dll
 C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\MyAuth\obj\Debug\MyAuth.pdb
