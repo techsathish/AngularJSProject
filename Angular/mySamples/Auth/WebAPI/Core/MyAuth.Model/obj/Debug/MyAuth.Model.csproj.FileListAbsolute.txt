@@ -1,4 +1,0 @@
-C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\Core\MyAuth.Model\bin\Debug\MyAuth.Model.dll
-C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\Core\MyAuth.Model\bin\Debug\MyAuth.Model.pdb
-C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\Core\MyAuth.Model\obj\Debug\MyAuth.Model.dll
-C:\Users\E2915\Documents\Study\AngularJS\Training\Angular\mySamples\Auth\WebAPI\Core\MyAuth.Model\obj\Debug\MyAuth.Model.pdb

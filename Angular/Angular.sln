@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App", "App", "{C2C32F61-239C-4E94-97B9-DF52C2EF245F}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebAPI", "WebAPI", "{BC3DC597-9C43-4392-B36F-AF4363CC2F9E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAuth", "mySamples\Auth\WebAPI\MyAuth\MyAuth.csproj", "{D434D06D-57B8-4E16-BE3F-C7A76104642F}"
